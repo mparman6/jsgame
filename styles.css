@@ -1,0 +1,61 @@
+.img-thumbnail {
+	width: 170px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 45px;
+}
+
+.container {
+	position: relative;
+	margin: auto;
+	display: block;
+}	
+
+.row {
+	vertical-align: center;
+	margin: auto;
+	display: block;
+}	
+
+#header {
+	color: #b48608; 
+	font-family: 'Droid serif', serif; 
+	font-size: 36px; 
+	font-weight: 400; 
+	font-style: italic; 
+	line-height: 44px; 
+	margin: 0 0 12px; 
+	text-align: center;
+	padding-top: 10px;
+}
+
+#start-button {
+	margin-left: 515px;
+	margin-bottom: 10px;
+}
+
+.counter {
+  background: #2C2C2C;
+  -moz-box-shadow:    inset 0 0 5px #000000;
+  -webkit-box-shadow: inset 0 0 5px #000000;
+  box-shadow:         inset 0 0 5px #000000;
+  min-height: 150px;
+  text-align: center;
+}
+
+.counter h3 {
+  color: #E5E5E5;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+}
+
+#countdown {
+  color: #FFFFFF;
+}
